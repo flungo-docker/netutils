@@ -8,5 +8,6 @@ The image contains:
 - bind-tools
 - curl
 - openssl
+- nmap
 
 If there are useful tools not listed here that you would like then suggestions will be taken.
