@@ -9,5 +9,6 @@ The image contains:
 - curl
 - openssl
 - nmap (with nmap-scripts)
+- tcpdump
 
 If there are useful tools not listed here that you would like then suggestions will be taken.
